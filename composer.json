@@ -1,0 +1,15 @@
+{
+    "name": "marabesi/design-patterns",
+    "authors": [
+        {
+            "name": "marabesi",
+            "email": "matheus.marabesi@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "DesignPattern\\": "src/"
+        }
+    }
+}
